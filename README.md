@@ -1,3 +1,3 @@
 # Programiranje-III
-OOP
+[OOP]
 Urađeni ispitni zadaci iz predmeta Programiranje III
